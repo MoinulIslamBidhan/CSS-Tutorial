@@ -1,0 +1,22 @@
+body{
+      background-color:cadetblue;
+    }
+    h3{
+      color: brown;
+    }
+    p1{
+      background-color: bisque;
+    }
+   #p2{
+    color: chocolate;
+   }
+    /*in case of class*/
+   .odd{
+
+    color:aquamarine
+
+   }
+
+   .even{
+    background-color: blueviolet;
+   }
